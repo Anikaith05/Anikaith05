@@ -4,12 +4,6 @@
 Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Developer
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Anikaith05">
-    <img src="https://komarev.com/ghpvc/?username=Anikaith05&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
