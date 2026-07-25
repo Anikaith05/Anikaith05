@@ -117,16 +117,6 @@ Also experienced with
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anikaith05&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
 # 💻 LeetCode
 
 <p align="center">
@@ -188,7 +178,7 @@ Also experienced with
 
 ```html
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Anikaith05/Anikaith05/output/github-contribution-grid-snake-dark.svg">
 </p>
 ```
 
