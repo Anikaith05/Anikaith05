@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anikaith Kamala</h1>
 
+<p align="center">
+  <img src="./profile.png" width="180">
+</p>
+
 <h3 align="center">
 Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Developer
 </h3>
