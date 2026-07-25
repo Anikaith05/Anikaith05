@@ -172,17 +172,6 @@ Also experienced with
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action to generate the snake animation.
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/Anikaith05/Anikaith05/output/github-contribution-grid-snake-dark.svg">
-</p>
-```
-
----
 
 # ❤️ Thanks for visiting!
 
