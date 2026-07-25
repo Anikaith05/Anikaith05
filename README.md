@@ -5,8 +5,8 @@ Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Dev
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=Anikaith05&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/Anikaith05">
+    <img src="https://komarev.com/ghpvc/?username=Anikaith05&color=0e75b6&style=flat" />
   </a>
 </p>
 
