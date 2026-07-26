@@ -147,7 +147,7 @@ Also experienced with
 # ⚡ Fun Facts about me
 
 - 🐛 Professional bug creator. Amateur bug fixer.
-- - 🌊 Swimming is my favorite way to reset after a long coding session.
+- 🌊 Swimming is my favorite way to reset after a long coding session.
 - 💡 My best ideas usually appear after saying "I'll just try one more thing."
 ---
 
