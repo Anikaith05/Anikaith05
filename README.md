@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anikaith Kamala</h1>
 
-Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Developer
-</h3>
+<h3 align="center">Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Developer</h3>
 
 ---
 
@@ -10,7 +9,6 @@ Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Dev
 🎓 B.Tech Computer Science Student at **VIT Chennai**
 
 💡 Passionate about
-
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
@@ -18,14 +16,12 @@ Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Dev
 - Software Engineering
 
 🔬 Currently working on
-
 - Diabetic Foot Ulcer Detection using Deep Learning
 - Computer Vision Research
 - Full Stack Web Development
 - Data Structures & Algorithms
 
 🎯 Career Goals
-
 - AI Engineer
 - Software Engineer
 - Research Engineer
@@ -35,31 +31,26 @@ Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Dev
 # 💻 Tech Stack
 
 ## Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql" />
 </p>
 
 ## Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ## Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ## AI / Machine Learning
-
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 Also experienced with
-
 - NumPy
 - Pandas
 - Scikit-Learn
@@ -81,11 +72,8 @@ Also experienced with
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anikaith05&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikaith05&layout=compact&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Anikaith05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikaith05&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -93,9 +81,7 @@ Also experienced with
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Anikaith05&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Anikaith05&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -103,9 +89,7 @@ Also experienced with
 # 📈 Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikaith05&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikaith05&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
@@ -113,9 +97,7 @@ Also experienced with
 # 💻 LeetCode
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Anikaith090578?theme=dark&font=Baloo&ext=contest"/>
-
+  <img src="https://leetcard.jacoblin.cool/Anikaith090578?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -129,7 +111,6 @@ Also experienced with
 ✔ Backend Development
 ✔ Full Stack Projects
 ✔ Open Source
-```
 
 ---
 
