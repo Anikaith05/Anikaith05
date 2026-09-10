@@ -85,13 +85,14 @@ Also experienced with
 </div>
 
 ---
-
 # 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikaith05&amp;theme=tokyo-night" alt="Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Anikaith05&theme=tokyo-night"
+    alt="Anikaith's GitHub Activity Graph"
+  />
 </div>
-
 ---
 
 # 💻 LeetCode
