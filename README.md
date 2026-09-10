@@ -31,24 +31,24 @@
 # 💻 Tech Stack
 
 ## Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql" alt="Languages" />
+</div>
 
 ## Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend" />
+</div>
 
 ## Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+</div>
 
 ## AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and ML" />
+</div>
 
 Also experienced with
 - NumPy
@@ -71,34 +71,34 @@ Also experienced with
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Anikaith05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikaith05&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Anikaith05&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikaith05&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anikaith05&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Anikaith05&amp;theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
 # 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikaith05&theme=tokyo-night" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikaith05&amp;theme=tokyo-night" alt="Activity Graph" />
+</div>
 
 ---
 
 # 💻 LeetCode
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Anikaith090578?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
-</p>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Anikaith090578?theme=dark&amp;font=Baloo&amp;ext=contest" alt="LeetCode Stats" />
+</div>
 
 ---
 
@@ -111,8 +111,6 @@ Also experienced with
 ✔ Backend Development
 ✔ Full Stack Projects
 ✔ Open Source
-
----
 
 # 📌 Goals for 2026
 
