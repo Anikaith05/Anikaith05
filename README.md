@@ -85,7 +85,6 @@ Also experienced with
 
 # 📚 Current Focus
 
-```text
 ✔ Data Structures & Algorithms
 ✔ Machine Learning
 ✔ Computer Vision
