@@ -67,16 +67,6 @@ Also experienced with
 - Computer Vision
 - Vision Transformers
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Anikaith05&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikaith05&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" />
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -84,16 +74,6 @@ Also experienced with
   <img src="https://streak-stats.demolab.com?user=Anikaith05&amp;theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
-# 📈 Activity Graph
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Anikaith05&theme=tokyo-night"
-    alt="Anikaith's GitHub Activity Graph"
-  />
-</div>
----
 
 # 💻 LeetCode
 
