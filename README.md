@@ -86,11 +86,11 @@ Also experienced with
 # 📚 Current Focus
 
 - Data Structures & Algorithms
--Machine Learning
--Computer Vision
--Backend Development
--Full Stack Projects
--Open Source
+- Machine Learning
+- Computer Vision
+- Backend Development
+- Full Stack Projects
+- Open Source
 
 # 📌 Goals for 2026
 
